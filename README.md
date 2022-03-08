@@ -1,4 +1,4 @@
-# Isaac Wong
+# Isaac
 👤 A technophile who focuses on building websites and python programming  
 🔥 Passion to integrate technology into our day-to-day life  
 💭 Enthusiastic about meeting new people and working in a team  
